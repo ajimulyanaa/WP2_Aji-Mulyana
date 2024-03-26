@@ -10,6 +10,6 @@ class Contoh1 extends BaseController
     {
         echo"<h1> BIODATA </h1>";
         echo"<p>Nama : Aji Mulyana</p>";
-        echo"<p>Cita-cita saya adalah menjadi superdady 😊</p>";
+        echo"<p>saya tinggal di daerah jakarta selatan</p>";
     }
 }
