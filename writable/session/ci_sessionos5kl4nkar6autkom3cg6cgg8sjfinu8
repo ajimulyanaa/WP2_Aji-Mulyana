@@ -1,0 +1,9 @@
+__ci_last_regenerate|i:1714482603;_ci_previous_url|s:42:"http://localhost:8080/index.php/matakuliah";error|s:233:"<!-- DEBUG-VIEW START 1 SYSTEMPATH\Validation\Views\list.php -->
+	<div class="errors" role="alert">
+		<ul>
+					<li>Format Email Harus Valid</li>
+				</ul>
+	</div>
+
+<!-- DEBUG-VIEW ENDED 1 SYSTEMPATH\Validation\Views\list.php -->
+";__ci_vars|a:3:{s:5:"error";s:3:"old";s:13:"_ci_old_input";s:3:"old";s:21:"_ci_validation_errors";s:3:"old";}_ci_old_input|a:2:{s:3:"get";a:0:{}s:4:"post";a:4:{s:14:"csrf_test_name";s:32:"bafc15215770eb165125291f54ecb0fd";s:4:"nama";s:6:"sdsads";s:4:"kode";s:8:"17.2C.02";s:3:"sks";s:1:"3";}}_ci_validation_errors|a:1:{s:4:"kode";s:24:"Format Email Harus Valid";}

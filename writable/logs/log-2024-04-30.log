@@ -1,0 +1,267 @@
+CRITICAL - 2024-04-30 07:38:18 --> CodeIgniter\View\Exceptions\ViewException: Invalid file: "templateLayout/templateHome.php"
+in SYSTEMPATH\Exceptions\FrameworkException.php on line 39.
+ 1 SYSTEMPATH\View\View.php(216): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('templateLayout/templateHome.php')
+ 2 SYSTEMPATH\Common.php(1178): CodeIgniter\View\View->render('templateLayout/templateHome', [], true)
+ 3 APPPATH\Controllers\Web.php(12): view('templateLayout/templateHome', [...])
+ 4 SYSTEMPATH\CodeIgniter.php(941): App\Controllers\Web->index()
+ 5 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Web))
+ 6 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+ 8 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\xampp\\htdocs\\Latihan-Web-pro-2\\Web-pro-2\\public\\index.php')
+CRITICAL - 2024-04-30 07:40:53 --> CodeIgniter\View\Exceptions\ViewException: Invalid file: "templateLayout/templateHome.php"
+in SYSTEMPATH\Exceptions\FrameworkException.php on line 39.
+ 1 SYSTEMPATH\View\View.php(216): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('templateLayout/templateHome.php')
+ 2 SYSTEMPATH\Common.php(1178): CodeIgniter\View\View->render('templateLayout/templateHome', [], true)
+ 3 APPPATH\Controllers\Web.php(12): view('templateLayout/templateHome', [...])
+ 4 SYSTEMPATH\CodeIgniter.php(941): App\Controllers\Web->index()
+ 5 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Web))
+ 6 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+ 8 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\xampp\\htdocs\\Latihan-Web-pro-2\\Web-pro-2\\public\\index.php')
+CRITICAL - 2024-04-30 07:40:54 --> CodeIgniter\View\Exceptions\ViewException: Invalid file: "templateLayout/templateHome.php"
+in SYSTEMPATH\Exceptions\FrameworkException.php on line 39.
+ 1 SYSTEMPATH\View\View.php(216): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('templateLayout/templateHome.php')
+ 2 SYSTEMPATH\Common.php(1178): CodeIgniter\View\View->render('templateLayout/templateHome', [], true)
+ 3 APPPATH\Controllers\Web.php(12): view('templateLayout/templateHome', [...])
+ 4 SYSTEMPATH\CodeIgniter.php(941): App\Controllers\Web->index()
+ 5 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Web))
+ 6 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+ 8 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\xampp\\htdocs\\Latihan-Web-pro-2\\Web-pro-2\\public\\index.php')
+CRITICAL - 2024-04-30 07:41:27 --> CodeIgniter\View\Exceptions\ViewException: Invalid file: "templateLayout/templateHome.php"
+in SYSTEMPATH\Exceptions\FrameworkException.php on line 39.
+ 1 SYSTEMPATH\View\View.php(216): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('templateLayout/templateHome.php')
+ 2 SYSTEMPATH\Common.php(1178): CodeIgniter\View\View->render('templateLayout/templateHome', [], true)
+ 3 APPPATH\Controllers\Web.php(12): view('templateLayout/templateHome', [...])
+ 4 SYSTEMPATH\CodeIgniter.php(941): App\Controllers\Web->index()
+ 5 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Web))
+ 6 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+ 8 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\xampp\\htdocs\\Latihan-Web-pro-2\\Web-pro-2\\public\\index.php')
+CRITICAL - 2024-04-30 07:43:33 --> CodeIgniter\View\Exceptions\ViewException: Invalid file: "/templateLayout/templateHome.php"
+in SYSTEMPATH\Exceptions\FrameworkException.php on line 39.
+ 1 SYSTEMPATH\View\View.php(216): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('/templateLayout/templateHome.php')
+ 2 SYSTEMPATH\Common.php(1178): CodeIgniter\View\View->render('/templateLayout/templateHome', [], true)
+ 3 APPPATH\Controllers\Web.php(12): view('/templateLayout/templateHome', [...])
+ 4 SYSTEMPATH\CodeIgniter.php(941): App\Controllers\Web->index()
+ 5 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Web))
+ 6 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+ 8 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\xampp\\htdocs\\Latihan-Web-pro-2\\Web-pro-2\\public\\index.php')
+CRITICAL - 2024-04-30 07:43:34 --> CodeIgniter\View\Exceptions\ViewException: Invalid file: "/templateLayout/templateHome.php"
+in SYSTEMPATH\Exceptions\FrameworkException.php on line 39.
+ 1 SYSTEMPATH\View\View.php(216): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('/templateLayout/templateHome.php')
+ 2 SYSTEMPATH\Common.php(1178): CodeIgniter\View\View->render('/templateLayout/templateHome', [], true)
+ 3 APPPATH\Controllers\Web.php(12): view('/templateLayout/templateHome', [...])
+ 4 SYSTEMPATH\CodeIgniter.php(941): App\Controllers\Web->index()
+ 5 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Web))
+ 6 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+ 8 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\xampp\\htdocs\\Latihan-Web-pro-2\\Web-pro-2\\public\\index.php')
+CRITICAL - 2024-04-30 07:50:32 --> CodeIgniter\View\Exceptions\ViewException: Invalid file: "templateLayout/templateHome.php"
+in SYSTEMPATH\Exceptions\FrameworkException.php on line 39.
+ 1 SYSTEMPATH\View\View.php(216): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('templateLayout/templateHome.php')
+ 2 SYSTEMPATH\Common.php(1178): CodeIgniter\View\View->render('templateLayout/templateHome', [], true)
+ 3 APPPATH\Controllers\Web.php(12): view('templateLayout/templateHome', [...])
+ 4 SYSTEMPATH\CodeIgniter.php(941): App\Controllers\Web->index()
+ 5 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Web))
+ 6 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+ 8 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\xampp\\htdocs\\Latihan-Web-pro-2\\Web-pro-2\\public\\index.php')
+CRITICAL - 2024-04-30 07:55:49 --> ErrorException: Undefined property: CodeIgniter\View\View::$endSection
+in APPPATH\Views\pustakabooking\home.php on line 56.
+ 1 APPPATH\Views\pustakabooking\home.php(56): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined property: CodeIgniter\\View\\View::$endSection', 'C:\\xampp\\htdocs\\Latihan-Web-pro-2\\Web-pro-2\\app\\Views\\pustakabooking\\home.php', 56)
+ 2 SYSTEMPATH\View\View.php(228): include('C:\\xampp\\htdocs\\Latihan-Web-pro-2\\Web-pro-2\\app\\Views\\pustakabooking\\home.php')
+ 3 SYSTEMPATH\View\View.php(231): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1178): CodeIgniter\View\View->render('pustakabooking/home', [], true)
+ 5 APPPATH\Controllers\Web.php(12): view('pustakabooking/home', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(941): App\Controllers\Web->index()
+ 7 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Web))
+ 8 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\xampp\\htdocs\\Latihan-Web-pro-2\\Web-pro-2\\public\\index.php')
+CRITICAL - 2024-04-30 07:56:51 --> CodeIgniter\View\Exceptions\ViewException: Invalid file: "templateLayout/templateHome.php"
+in SYSTEMPATH\Exceptions\FrameworkException.php on line 39.
+ 1 SYSTEMPATH\View\View.php(216): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('templateLayout/templateHome.php')
+ 2 SYSTEMPATH\View\View.php(244): CodeIgniter\View\View->render('templateLayout/templateHome', [], true)
+ 3 SYSTEMPATH\Common.php(1178): CodeIgniter\View\View->render('pustakabooking/home', [], true)
+ 4 APPPATH\Controllers\Web.php(12): view('pustakabooking/home', [...])
+ 5 SYSTEMPATH\CodeIgniter.php(941): App\Controllers\Web->index()
+ 6 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Web))
+ 7 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 8 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+ 9 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\xampp\\htdocs\\Latihan-Web-pro-2\\Web-pro-2\\public\\index.php')
+CRITICAL - 2024-04-30 07:57:28 --> CodeIgniter\View\Exceptions\ViewException: Invalid file: "templateLayout/templateHome.php"
+in SYSTEMPATH\Exceptions\FrameworkException.php on line 39.
+ 1 SYSTEMPATH\View\View.php(216): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('templateLayout/templateHome.php')
+ 2 SYSTEMPATH\View\View.php(244): CodeIgniter\View\View->render('templateLayout/templateHome', [], true)
+ 3 SYSTEMPATH\Common.php(1178): CodeIgniter\View\View->render('pustakabooking/home', [], true)
+ 4 APPPATH\Controllers\Web.php(12): view('pustakabooking/home', [...])
+ 5 SYSTEMPATH\CodeIgniter.php(941): App\Controllers\Web->index()
+ 6 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Web))
+ 7 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 8 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+ 9 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\xampp\\htdocs\\Latihan-Web-pro-2\\Web-pro-2\\public\\index.php')
+CRITICAL - 2024-04-30 07:57:55 --> CodeIgniter\View\Exceptions\ViewException: Invalid file: "templateLayout/templateHome.php"
+in SYSTEMPATH\Exceptions\FrameworkException.php on line 39.
+ 1 SYSTEMPATH\View\View.php(216): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('templateLayout/templateHome.php')
+ 2 SYSTEMPATH\View\View.php(244): CodeIgniter\View\View->render('templateLayout/templateHome', [], true)
+ 3 SYSTEMPATH\Common.php(1178): CodeIgniter\View\View->render('pustakabooking/home', [], true)
+ 4 APPPATH\Controllers\Web.php(12): view('pustakabooking/home', [...])
+ 5 SYSTEMPATH\CodeIgniter.php(941): App\Controllers\Web->index()
+ 6 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Web))
+ 7 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 8 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+ 9 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\xampp\\htdocs\\Latihan-Web-pro-2\\Web-pro-2\\public\\index.php')
+CRITICAL - 2024-04-30 08:00:44 --> CodeIgniter\View\Exceptions\ViewException: Invalid file: "template/templateHome.php"
+in SYSTEMPATH\Exceptions\FrameworkException.php on line 39.
+ 1 SYSTEMPATH\View\View.php(216): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('template/templateHome.php')
+ 2 SYSTEMPATH\View\View.php(244): CodeIgniter\View\View->render('template/templateHome', [], true)
+ 3 SYSTEMPATH\Common.php(1178): CodeIgniter\View\View->render('pustakabooking/home', [], true)
+ 4 APPPATH\Controllers\Web.php(12): view('pustakabooking/home', [...])
+ 5 SYSTEMPATH\CodeIgniter.php(941): App\Controllers\Web->index()
+ 6 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Web))
+ 7 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 8 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+ 9 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\xampp\\htdocs\\Latihan-Web-pro-2\\Web-pro-2\\public\\index.php')
+CRITICAL - 2024-04-30 08:00:46 --> CodeIgniter\View\Exceptions\ViewException: Invalid file: "template/templateHome.php"
+in SYSTEMPATH\Exceptions\FrameworkException.php on line 39.
+ 1 SYSTEMPATH\View\View.php(216): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('template/templateHome.php')
+ 2 SYSTEMPATH\View\View.php(244): CodeIgniter\View\View->render('template/templateHome', [], true)
+ 3 SYSTEMPATH\Common.php(1178): CodeIgniter\View\View->render('pustakabooking/home', [], true)
+ 4 APPPATH\Controllers\Web.php(12): view('pustakabooking/home', [...])
+ 5 SYSTEMPATH\CodeIgniter.php(941): App\Controllers\Web->index()
+ 6 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Web))
+ 7 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 8 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+ 9 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\xampp\\htdocs\\Latihan-Web-pro-2\\Web-pro-2\\public\\index.php')
+CRITICAL - 2024-04-30 08:01:25 --> CodeIgniter\View\Exceptions\ViewException: Invalid file: "template/navigaton.php"
+in SYSTEMPATH\Exceptions\FrameworkException.php on line 39.
+ 1 SYSTEMPATH\View\View.php(216): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('template/navigaton.php')
+ 2 SYSTEMPATH\View\View.php(469): CodeIgniter\View\View->render('template/navigaton', null, true)
+ 3 APPPATH\Views\template\templatHome.php(10): CodeIgniter\View\View->include('template/navigaton')
+ 4 SYSTEMPATH\View\View.php(228): include('C:\\xampp\\htdocs\\Latihan-Web-pro-2\\Web-pro-2\\app\\Views\\template\\templatHome.php')
+ 5 SYSTEMPATH\View\View.php(231): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 6 SYSTEMPATH\View\View.php(244): CodeIgniter\View\View->render('template/templatHome', [], true)
+ 7 SYSTEMPATH\Common.php(1178): CodeIgniter\View\View->render('pustakabooking/home', [], true)
+ 8 APPPATH\Controllers\Web.php(12): view('pustakabooking/home', [...])
+ 9 SYSTEMPATH\CodeIgniter.php(941): App\Controllers\Web->index()
+10 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Web))
+11 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+12 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+13 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\xampp\\htdocs\\Latihan-Web-pro-2\\Web-pro-2\\public\\index.php')
+CRITICAL - 2024-04-30 08:01:28 --> CodeIgniter\View\Exceptions\ViewException: Invalid file: "template/navigaton.php"
+in SYSTEMPATH\Exceptions\FrameworkException.php on line 39.
+ 1 SYSTEMPATH\View\View.php(216): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('template/navigaton.php')
+ 2 SYSTEMPATH\View\View.php(469): CodeIgniter\View\View->render('template/navigaton', null, true)
+ 3 APPPATH\Views\template\templatHome.php(10): CodeIgniter\View\View->include('template/navigaton')
+ 4 SYSTEMPATH\View\View.php(228): include('C:\\xampp\\htdocs\\Latihan-Web-pro-2\\Web-pro-2\\app\\Views\\template\\templatHome.php')
+ 5 SYSTEMPATH\View\View.php(231): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 6 SYSTEMPATH\View\View.php(244): CodeIgniter\View\View->render('template/templatHome', [], true)
+ 7 SYSTEMPATH\Common.php(1178): CodeIgniter\View\View->render('pustakabooking/home', [], true)
+ 8 APPPATH\Controllers\Web.php(12): view('pustakabooking/home', [...])
+ 9 SYSTEMPATH\CodeIgniter.php(941): App\Controllers\Web->index()
+10 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Web))
+11 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+12 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+13 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\xampp\\htdocs\\Latihan-Web-pro-2\\Web-pro-2\\public\\index.php')
+CRITICAL - 2024-04-30 08:03:27 --> CodeIgniter\View\Exceptions\ViewException: Invalid file: "template/navigaton.php"
+in SYSTEMPATH\Exceptions\FrameworkException.php on line 39.
+ 1 SYSTEMPATH\View\View.php(216): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('template/navigaton.php')
+ 2 SYSTEMPATH\View\View.php(469): CodeIgniter\View\View->render('template/navigaton', null, true)
+ 3 APPPATH\Views\template\templatHome.php(10): CodeIgniter\View\View->include('template/navigaton')
+ 4 SYSTEMPATH\View\View.php(228): include('C:\\xampp\\htdocs\\Latihan-Web-pro-2\\Web-pro-2\\app\\Views\\template\\templatHome.php')
+ 5 SYSTEMPATH\View\View.php(231): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 6 SYSTEMPATH\View\View.php(244): CodeIgniter\View\View->render('template/templatHome', [], true)
+ 7 SYSTEMPATH\Common.php(1178): CodeIgniter\View\View->render('pustakabooking/home', [], true)
+ 8 APPPATH\Controllers\Web.php(12): view('pustakabooking/home', [...])
+ 9 SYSTEMPATH\CodeIgniter.php(941): App\Controllers\Web->index()
+10 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Web))
+11 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+12 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+13 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\xampp\\htdocs\\Latihan-Web-pro-2\\Web-pro-2\\public\\index.php')
+INFO - 2024-04-30 09:21:34 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-04-30 09:21:38 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-04-30 09:21:38 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-04-30 09:22:05 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-04-30 09:22:05 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-04-30 12:54:46 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-04-30 12:54:59 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-04-30 12:54:59 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-04-30 12:55:05 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-04-30 12:57:31 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-04-30 12:57:34 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-04-30 12:57:34 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-04-30 12:57:44 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-04-30 12:57:45 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-04-30 13:10:03 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-04-30 13:10:03 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2024-04-30 13:10:13 --> ErrorException: Undefined variable $kode
+in APPPATH\Views\data_kuliah.php on line 22.
+ 1 APPPATH\Views\data_kuliah.php(22): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $kode', 'C:\\xampp\\htdocs\\Latihan-Web-pro-2\\Web-pro-2\\app\\Views\\data_kuliah.php', 22)
+ 2 SYSTEMPATH\View\View.php(228): include('C:\\xampp\\htdocs\\Latihan-Web-pro-2\\Web-pro-2\\app\\Views\\data_kuliah.php')
+ 3 SYSTEMPATH\View\View.php(231): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1178): CodeIgniter\View\View->render('data_kuliah', [], true)
+ 5 APPPATH\Controllers\Matakuliah.php(52): view('data_kuliah', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(941): App\Controllers\Matakuliah->save()
+ 7 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Matakuliah))
+ 8 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\xampp\\htdocs\\Latihan-Web-pro-2\\Web-pro-2\\public\\index.php')
+INFO - 2024-04-30 13:15:41 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-04-30 13:15:41 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2024-04-30 13:15:53 --> ErrorException: Undefined variable $data
+in APPPATH\Views\data_kuliah.php on line 12.
+ 1 APPPATH\Views\data_kuliah.php(12): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $data', 'C:\\xampp\\htdocs\\Latihan-Web-pro-2\\Web-pro-2\\app\\Views\\data_kuliah.php', 12)
+ 2 SYSTEMPATH\View\View.php(228): include('C:\\xampp\\htdocs\\Latihan-Web-pro-2\\Web-pro-2\\app\\Views\\data_kuliah.php')
+ 3 SYSTEMPATH\View\View.php(231): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1178): CodeIgniter\View\View->render('data_kuliah', [], true)
+ 5 APPPATH\Controllers\Matakuliah.php(52): view('data_kuliah', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(941): App\Controllers\Matakuliah->save()
+ 7 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Matakuliah))
+ 8 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\xampp\\htdocs\\Latihan-Web-pro-2\\Web-pro-2\\public\\index.php')
+INFO - 2024-04-30 13:17:11 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-04-30 13:17:11 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2024-04-30 13:17:20 --> ErrorException: Undefined variable $data
+in APPPATH\Views\data_kuliah.php on line 12.
+ 1 APPPATH\Views\data_kuliah.php(12): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $data', 'C:\\xampp\\htdocs\\Latihan-Web-pro-2\\Web-pro-2\\app\\Views\\data_kuliah.php', 12)
+ 2 SYSTEMPATH\View\View.php(228): include('C:\\xampp\\htdocs\\Latihan-Web-pro-2\\Web-pro-2\\app\\Views\\data_kuliah.php')
+ 3 SYSTEMPATH\View\View.php(231): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1178): CodeIgniter\View\View->render('data_kuliah', [], true)
+ 5 APPPATH\Controllers\Matakuliah.php(52): view('data_kuliah', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(941): App\Controllers\Matakuliah->save()
+ 7 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Matakuliah))
+ 8 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\xampp\\htdocs\\Latihan-Web-pro-2\\Web-pro-2\\public\\index.php')
+INFO - 2024-04-30 13:18:18 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-04-30 13:18:18 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2024-04-30 13:18:27 --> ErrorException: Undefined variable $data
+in APPPATH\Views\data_kuliah.php on line 12.
+ 1 APPPATH\Views\data_kuliah.php(12): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $data', 'C:\\xampp\\htdocs\\Latihan-Web-pro-2\\Web-pro-2\\app\\Views\\data_kuliah.php', 12)
+ 2 SYSTEMPATH\View\View.php(228): include('C:\\xampp\\htdocs\\Latihan-Web-pro-2\\Web-pro-2\\app\\Views\\data_kuliah.php')
+ 3 SYSTEMPATH\View\View.php(231): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1178): CodeIgniter\View\View->render('data_kuliah', [], true)
+ 5 APPPATH\Controllers\Matakuliah.php(53): view('data_kuliah', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(941): App\Controllers\Matakuliah->save()
+ 7 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Matakuliah))
+ 8 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\xampp\\htdocs\\Latihan-Web-pro-2\\Web-pro-2\\public\\index.php')
+INFO - 2024-04-30 13:23:10 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-04-30 13:23:10 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2024-04-30 13:23:21 --> ErrorException: Undefined variable $kelas
+in APPPATH\Views\data_kuliah.php on line 16.
+ 1 APPPATH\Views\data_kuliah.php(16): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $kelas', 'C:\\xampp\\htdocs\\Latihan-Web-pro-2\\Web-pro-2\\app\\Views\\data_kuliah.php', 16)
+ 2 SYSTEMPATH\View\View.php(228): include('C:\\xampp\\htdocs\\Latihan-Web-pro-2\\Web-pro-2\\app\\Views\\data_kuliah.php')
+ 3 SYSTEMPATH\View\View.php(231): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1178): CodeIgniter\View\View->render('data_kuliah', [], true)
+ 5 APPPATH\Controllers\Matakuliah.php(53): view('data_kuliah', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(941): App\Controllers\Matakuliah->save()
+ 7 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Matakuliah))
+ 8 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\xampp\\htdocs\\Latihan-Web-pro-2\\Web-pro-2\\public\\index.php')
+INFO - 2024-04-30 13:39:16 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.

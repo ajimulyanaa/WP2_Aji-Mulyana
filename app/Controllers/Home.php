@@ -8,9 +8,4 @@ class Home extends BaseController
     {
         return view('welcome_message');
     }
-    // public function index()
-    // {
-    //     echo"Nama : Aji Mulyana ,";
-    //     echo"Alamat : jl.Kedondong no.18";
-    // }
 }
