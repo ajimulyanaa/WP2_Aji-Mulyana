@@ -46,9 +46,9 @@ class Matakuliah extends BaseController
         } else {
             
         $data = [
-            'kode' => $this->request->getpost('kode'),
-            'nama' => $this->request->getpost('nama'),
-            'skss' => $this->request->getpost('sks'),
+            'nama' => $this->request->getPost('kode'),
+            'kelas' => $this->request->getPost('nama'),
+            'sks' => $this->request->getPost('sks'),
             ];
         return view('data_kuliah',$data);
         }

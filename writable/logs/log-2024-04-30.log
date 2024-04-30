@@ -265,3 +265,30 @@ in APPPATH\Views\data_kuliah.php on line 16.
  9 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
 10 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\xampp\\htdocs\\Latihan-Web-pro-2\\Web-pro-2\\public\\index.php')
 INFO - 2024-04-30 13:39:16 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-04-30 14:40:13 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-04-30 14:40:50 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2024-04-30 14:40:59 --> ErrorException: Undefined variable $data
+in APPPATH\Views\data_kuliah.php on line 12.
+ 1 APPPATH\Views\data_kuliah.php(12): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $data', 'C:\\xampp\\htdocs\\Latihan-Web-pro-2\\Web-pro-2\\app\\Views\\data_kuliah.php', 12)
+ 2 SYSTEMPATH\View\View.php(228): include('C:\\xampp\\htdocs\\Latihan-Web-pro-2\\Web-pro-2\\app\\Views\\data_kuliah.php')
+ 3 SYSTEMPATH\View\View.php(231): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1178): CodeIgniter\View\View->render('data_kuliah', [], true)
+ 5 APPPATH\Controllers\Matakuliah.php(53): view('data_kuliah', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(941): App\Controllers\Matakuliah->save()
+ 7 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Matakuliah))
+ 8 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\xampp\\htdocs\\Latihan-Web-pro-2\\Web-pro-2\\public\\index.php')
+CRITICAL - 2024-04-30 14:43:44 --> ErrorException: Undefined variable $skss
+in APPPATH\Views\data_kuliah.php on line 20.
+ 1 APPPATH\Views\data_kuliah.php(20): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $skss', 'C:\\xampp\\htdocs\\Latihan-Web-pro-2\\Web-pro-2\\app\\Views\\data_kuliah.php', 20)
+ 2 SYSTEMPATH\View\View.php(228): include('C:\\xampp\\htdocs\\Latihan-Web-pro-2\\Web-pro-2\\app\\Views\\data_kuliah.php')
+ 3 SYSTEMPATH\View\View.php(231): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1178): CodeIgniter\View\View->render('data_kuliah', [], true)
+ 5 APPPATH\Controllers\Matakuliah.php(53): view('data_kuliah', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(941): App\Controllers\Matakuliah->save()
+ 7 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Matakuliah))
+ 8 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\xampp\\htdocs\\Latihan-Web-pro-2\\Web-pro-2\\public\\index.php')
+INFO - 2024-04-30 14:44:21 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.

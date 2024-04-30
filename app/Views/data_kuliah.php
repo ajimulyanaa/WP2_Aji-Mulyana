@@ -8,15 +8,15 @@
 <body>
   <table>
     <tr>
-      <td>Mata Kuliah</td>
+      <td>NAMA</td>
       <td><?=$nama;?></td>
     </tr>
     <tr>
-      <td>Mata Kuliah</td>
+      <td>KELAS</td>
       <td><?=$kelas;?></td>
     </tr>
     <tr>
-      <td>Mata Kuliah</td>
+      <td>SKS</td>
       <td><?=$sks;?></td>
     </tr>
   </table>
