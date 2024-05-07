@@ -1,0 +1,10 @@
+__ci_last_regenerate|i:1715088636;_ci_previous_url|s:42:"http://localhost:8080/index.php/matakuliah";error|s:256:"<!-- DEBUG-VIEW START 1 SYSTEMPATH\Validation\Views\list.php -->
+	<div class="errors" role="alert">
+		<ul>
+					<li>nis Harus diisi</li>
+					<li>agama Harus diisi</li>
+				</ul>
+	</div>
+
+<!-- DEBUG-VIEW ENDED 1 SYSTEMPATH\Validation\Views\list.php -->
+";__ci_vars|a:3:{s:5:"error";s:3:"old";s:13:"_ci_old_input";s:3:"old";s:21:"_ci_validation_errors";s:3:"old";}_ci_old_input|a:2:{s:3:"get";a:0:{}s:4:"post";a:4:{s:14:"csrf_test_name";s:32:"1da6243d8ecae719a8db6e27e506dc3c";s:4:"nama";s:6:"sdfgfg";s:4:"kode";s:5:"sfdgd";s:3:"sks";s:5:"islam";}}_ci_validation_errors|a:2:{s:3:"nis";s:15:"nis Harus diisi";s:5:"agama";s:17:"agama Harus diisi";}
