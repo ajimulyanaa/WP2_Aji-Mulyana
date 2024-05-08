@@ -23,10 +23,35 @@
   <label for="formGroupExampleInput2" class="form-label">Kelas</label>
   <input type="text" class="form-control" id="formGroupExampleInput2" placeholder="Input Kelas" name="kelas">
 </div>
-<div class="mb-3">
+<!-- tanggal lahir -->
+<!-- <div class="mb-3">
   <label for="formGroupExampleInput2" class="form-label">Tanggal Lahir</label>
   <input type="text" class="form-control" id="formGroupExampleInput2" placeholder="dd-mm-yyyy" name="ttl">
+</div> -->
+<!-- <div class="col-lg-3 col-sm-6">
+            <label for="startDate">Tanggal Lahir</label>
+            <input id="startDate" class="form-control" type="date" name='ttl' />
+            <span id="startDateSelected"></span>
+</div> -->
+<div>
+<input id="startDate" class="form-control" type="date" name='ttl' />
 </div>
+<!-- <div class="container shadow min-vh-100 py-2">
+    <h5>Bootstrap 5 date picker</h5>
+    <div class="row justify-content-center"> -->
+        <!-- <div class="col-lg-3 col-sm-6">
+            <label for="startDate">Start</label>
+            <input id="startDate" class="form-control" type="date" />
+            <span id="startDateSelected"></span>
+        </div> -->
+        <!-- <div class="col-lg-3 col-sm-6">
+            <label for="endDate">End</label>
+            <input id="endDate" class="form-control" type="date" />
+            <span id="endDateSelected"></span>
+        </div> -->
+    <!-- </div>
+</div> -->
+<!-- tanggal lahir -->
 <div class="mb-3">
   <label for="formGroupExampleInput2" class="form-label">Alamat</label>
   <input type="text" class="form-control" id="formGroupExampleInput2" placeholder="alamat" name="alamat">
@@ -59,5 +84,16 @@
 
 
     <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.3/dist/js/bootstrap.bundle.min.js" integrity="sha384-YvpcrYf0tY3lHB60NNkmXc5s9fDVZLESaAA55NDzOxhy9GkcIdslK1eN7N6jIeHz" crossorigin="anonymous"></script>
+    <script>
+      // let endDate = document.getElementById('endDate')
+      let startDate = document.getElementById('startDate')
+      startDate.addEventListener('change',(e)=>{
+      let startDateVal = e.target.value
+      document.getElementById('startDateSelected').innerText = startDateVal})
+
+      // endDate.addEventListener('change',(e)=>{
+      // let endDateVal = e.target.value
+      // document.getElementById('endDateSelected').innerText = endDateVal})  
+    </script>
   </body>
 </html>

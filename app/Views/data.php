@@ -20,8 +20,8 @@
       <th scope="col"></th>
       <th scope="col">Nama</th>
       <th scope="col">Nis</th>
-      <th scope="col">Jenis Kelamin</th>
       <th scope="col">Kelas</th>
+      <th scope="col">Jenis Kelamin</th>
       <th scope="col">Alamat</th>
       <th scope="col">Tanggal Lahir</th>
       <th scope="col">Agama</th>
